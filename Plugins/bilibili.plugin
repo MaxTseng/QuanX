@@ -2,7 +2,7 @@
 #!desc = 没有广告的哔哩哔哩更值得干杯。
 #!author = Maasea[https://github.com/Maasea], MaxTseng[https://github.com/MaxTseng], kokoryh[https://github.com/kokoryh], 可莉🅥[https://gitlab.com/lodepuly/vpn_tool]
 #!icon = https://github.com/MaxTseng/QuanX/raw/refs/heads/main/Icons/app/bilibili.png
-#!date = 2024-10-22 21:40
+#!date = 2024-10-22 23:22
 
 [General]
 force-http-engine-hosts = :8000

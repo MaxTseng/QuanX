@@ -2,7 +2,7 @@
 #!desc = 移除广告。
 #!author = Maasea[https://github.com/Maasea/sgmodule], MaxTseng[https://github.com/MaxTseng]
 #!icon = https://github.com/MaxTseng/QuanX/raw/refs/heads/main/Icons/app/youtube.png
-#!date = 2024-06-11 21:59:22
+#!date = 2024-10-22 23:22
 #!select = 隐藏上传按钮, true, false
 #!select = 隐藏选段按钮, true, false
 #!select = 字幕翻译语言, zh-Hans, zh-Hant, ja, ko, en, off
